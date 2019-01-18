@@ -1,0 +1,11 @@
+smtp_server: smtp.qq.com
+
+port: 465
+
+sender: 1148479571@qq.com
+
+psw: lvboqkwecasrbaah
+
+subject: 外勤365web端自动化测试报告
+
+receiver: 1148479571@qq.com,yangweimin@waiqin365.com

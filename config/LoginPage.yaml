@@ -1,0 +1,15 @@
+# 存放登录页面的控件元素
+account_login: /html/body/div[1]/ul/li[2]
+
+# 企业code
+tenantname_loc: tenantname
+
+# 用户名输入框
+username_loc: username
+
+# 密码输入框
+password_loc: password
+
+# 登录按钮
+login_button: login-sub
+

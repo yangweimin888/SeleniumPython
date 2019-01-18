@@ -1,0 +1,14 @@
+# 测试环境
+test:
+  url: http://172.31.3.233:6020
+  tenantname: yang
+  username: yang
+  password: a222222
+
+
+# 生产环境
+production:
+  url: https://cloud.waiqin365.com
+  tenantname: ywcsb
+  username: yang
+  password: a222222
